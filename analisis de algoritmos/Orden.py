@@ -15,7 +15,7 @@ def orden(list):
  
  
 if __name__ == "__main__":
-    num = [64, 25, 12, 22, 11]
+    num = [13, 76, 8, 20, 3]
     print("El orden pre cambios es: ", num)
  
     orden(num)
